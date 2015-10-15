@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/home/yps/workspace/fhnw/eai-java/../../../Downloads/Bank%20JD/bankjd.wsdl" uri="xml-resources/jaxb/BankJDService/bankjd.wsdl"/>
+    <system systemId="file:/home/yps/Downloads/Bank%20JD/bankjd.wsdl" uri="wsdl/bankjd.wsdl"/>
+    <system systemId="http://localhost:8080/?xsd=1" uri="wsdl/localhost_8080/.xsd_1.xsd"/>
+    <system systemId="file:/home/dany/eai/bankjd.wsdl" uri="wsdl/bankjd.wsdl"/>
+</catalog>
